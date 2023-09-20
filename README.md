@@ -16,7 +16,7 @@
       - Github: https://github.com/Techlead0107
       - Product [GATEWAY to unlock liquidity]: https://www.govworld.io
       - Stack: TypeScript + Solidity + Reactjs + Web3js
-    - Rust Enginner at OutRankNFT
+    - Rust Engineer at OutRankNFT
       - Github: https://github.com/OutRankNFT
       - Product [NFT Pricing and Rarity Analyze]: https://outrank-frontend.vercel.app, https://icp-main-website.netlify.app        
       - TypeScript + Nextjs + Rust + Web3js
