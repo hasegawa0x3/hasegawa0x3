@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://i.ibb.co/LrX5TcV/home1.png" align="center" style="width: 100%" />
-</div>  
-
 ### Hi there 👋 I am Hasegawa.
 - ICP Expert
 - Rust Engineer
@@ -17,12 +13,11 @@
 - 🔒Blockchain & Web3 & ICP
     - Lead Developer at GovWorld
       - Github: https://github.com/Techlead0107
-      - Product [DeFi]: https://www.govworld.io
+      - Product [GATEWAY to unlock liquidity]: https://www.govworld.io
       - Stack: TypeScript + Solidity + Reactjs + Web3js
     - Rust Enginner at OutRankNFT
       - Github: https://github.com/OutRankNFT
-      - Product [NFT Pricing and Rarity Analyze]: https://outrank-frontend.vercel.app
-                                                 https://icp-main-website.netlify.app        
+      - Product [NFT Pricing and Rarity Analyze]: https://outrank-frontend.vercel.app, https://icp-main-website.netlify.app        
       - TypeScript + Nextjs + Rust + Web3js
     - Solidity Developer at WoofLabs
       - Github: https://github.com/WoofLabs
@@ -38,6 +33,3 @@
       - Product: https://www.ethlizards.io
       - Stack: Nextjs
 
-# 🔗Connect
-# -------------------------------------
-# - Telegram: https://t.me/Justin_W47
