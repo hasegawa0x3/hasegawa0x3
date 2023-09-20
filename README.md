@@ -2,6 +2,7 @@
 - ICP Expert
 - Rust Engineer
 - Casino Developer
+- Web3 Developer
 
 👍Summary
 -------------------------------------
