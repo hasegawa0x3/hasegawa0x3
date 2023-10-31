@@ -18,7 +18,7 @@
       - Stack: TypeScript + Solidity + Reactjs + Web3js
     - Rust Engineer at OutRankNFT
       - Github: https://github.com/OutRankNFT
-      - Product [NFT Pricing and Rarity Analyze]: https://outrank-frontend.vercel.app, https://icp-main-website.netlify.app, https://icp-nft-rarity.netlify.app/)        
+      - Product [NFT Pricing and Rarity Analyze]: https://outrank-frontend.vercel.app, https://icp-nft-rarity.netlify.app       
       - TypeScript + Nextjs + Rust + Web3js
     - Solidity Developer at NearNauts
       - Github: https://github.com/nearnautnft
