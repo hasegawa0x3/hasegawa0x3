@@ -20,11 +20,11 @@
       - Github: https://github.com/OutRankNFT
       - Product [NFT Pricing and Rarity Analyze]: https://outrank-frontend.vercel.app, https://icp-main-website.netlify.app        
       - TypeScript + Nextjs + Rust + Web3js
-    - Solidity Developer at WoofLabs
+    - Solidity Developer at NearNauts
       - Github: https://github.com/nearnautnft
       - Product [NFT]: https://twitter.com/NEARNauts
       - Stack: Solidity + TypeScript + Nextjs + Web3js
-    - Smart Contract Developer at NearNauts
+    - Smart Contract Developer at WoofLabs
       - Github: https://github.com/WoofLabs
       - Stack: Solidity + TypeScript + Nextjs + Web3js
 - ⚒️Backend & Frontend
