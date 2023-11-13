@@ -39,5 +39,5 @@
       - Stack: Nextjs
 🔗Connect
 -------------------------------------
-Telegram: https://t.me/hasegawa0x3
-Discord: rust_engineer(ICP_Guru)
+   -Telegram: https://t.me/hasegawa0x3
+   -Discord: rust_engineer(ICP_Guru)
