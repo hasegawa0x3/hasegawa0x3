@@ -42,3 +42,8 @@
 -------------------------------------
 - Telegram: https://t.me/hasegawa0x3
 - Discord: rust_engineer
+<div style="background:transparent">
+    <!--<a href=""><img src="https://www.svgrepo.com//show/134579/linkedin.svg" align="center" width="55" height="50" style="background:transparent"></a>-->
+    <a href="https://t.me/Rust_And_ICP"><img src="https://www.svgrepo.com/download/452115/telegram.svg" align="center" width="55" height="55" style="background:transparent"></a>
+    <a href="https://discord.com/users/1040241190622212166"><img src="https://www.svgrepo.com/show/331368/discord-v2.svg" align="center" width="55" height="50" style="background:transparent"></a>
+</div>
