@@ -1,4 +1,4 @@
-### Hi there 👋 I am Hasegawa.
+### Hi there 👋 I am Ichiro.
 - ICP Expert based on Rust
 - AI Engineer
 - Casino Developer
