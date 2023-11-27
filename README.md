@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Hasegawa.
-- ICP Expert
-- Rust Engineer
+- ICP Expert based on Rust
+- AI Engineer
 - Casino Developer
-- Web3 Developer
+- Blockchian Developer
 
 👍Summary
 -------------------------------------
