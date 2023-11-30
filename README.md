@@ -32,7 +32,7 @@
    - Fullstack Developer at Online Casino Service
       - Product: https://affiliateslots.com
       - Product: https://canada777.com
-      - Product: https://europa777.com
+      - Product: https://game777.vercel.app
       - Stack: Nextjs + Nodejs + Mongodb
    - Frontend Developer at Ethlizards-NFT
       - Github: https://github.com/Ethlizards-NFT
