@@ -2,7 +2,7 @@
 - ICP Expert based on Rust
 - AI Engineer
 - Casino Developer
-- Blockchian Developer
+- Blockchain Developer (Bitcoin specialist) 
 
 👍Summary
 -------------------------------------
