@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ichiro.
 - ICP Expert based on Rust
-- AI Engineer
+- AI Engineer based on Python and Rust
 - Casino Developer
 - Blockchain Developer (Bitcoin specialist) 
 
